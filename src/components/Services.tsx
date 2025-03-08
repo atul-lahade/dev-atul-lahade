@@ -1,7 +1,7 @@
 export default function Services() {
   return (
     <section id="services">
-          <div className="bg-cream-light-color dark:bg-black-color py-60px md:py-20 lg:py-30 overflow-x-hidden">
+          <div className="bg-cream-light-color dark:bg-black-color py-60px md:py-20 lg:py-30 overflow-x-hidden bg-gradient-to-br from-[#FFFEFF] to-gray-100">
             <div className="container">
               <div className="text-center flex flex-col items-center mb-10 md:mb-50px">
                 <h2
